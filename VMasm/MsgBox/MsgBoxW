@@ -1,0 +1,64 @@
+{
+	"Version": 2,
+	"Project": {
+		"Name": "Win32App.exe",
+		"Id": "B24267AF-AEA8-497C-BED4-9BD6DAE58FD7",
+		"FileName": "C:\\Users\\MrRobot\\Desktop\\Proyectos MASM\\VMasm\\MsgBox\\MsgBoxW",
+		"Created": "08/04/2019 22:22:15",
+		"Type": "ptWin32",
+		"PreAssembleEventCommandLine": "",
+		"AssembleEventCommandLine": "",
+		"PostAssembleEventCommandLine": "",
+		"PreLinkEventCommandLine": "",
+		"LinkEventCommandLine": "",
+		"AdditionalLinkSwitches": "",
+		"AdditionalLinkFiles": "",
+		"PostLinkEventCommandLine": "",
+		"LibraryPath": "",
+		"OutputFolder": "C:\\Users\\MrRobot\\Desktop\\Proyectos MASM\\VMasm\\MsgBox\\",
+		"OutputFile": "\"C:\\Users\\MrRobot\\Desktop\\Proyectos MASM\\VMasm\\MsgBox\\Release\\Win32App.exe\"",
+		"SizeInBytes": 0,
+		"Build": true
+	},
+	"Files": [
+		{
+			"Id": "1880A5BD-C81A-4817-86E6-95B240310F20",
+			"Name": "Manifest.xml",
+			"Created": "08/04/2019 22:22:15",
+			"Type": "pftManifest",
+			"Path": "C:\\Users\\MrRobot\\Desktop\\Proyectos MASM\\VMasm\\MsgBox\\",
+			"IsOpen": false,
+			"AssembleFile": false,
+			"ChildFileRCId": "",
+			"ChildFileASMId": "",
+			"ParentFileId": "",
+			"OutputFile": ""
+		},
+		{
+			"Id": "7BD17FBA-F50F-4549-8BB1-036A900FEF07",
+			"Name": "Assembly1.asm",
+			"Created": "08/04/2019 22:22:15",
+			"Type": "pftASM",
+			"Path": "C:\\Users\\MrRobot\\Desktop\\Proyectos MASM\\VMasm\\MsgBox\\",
+			"IsOpen": true,
+			"AssembleFile": true,
+			"ChildFileRCId": "",
+			"ChildFileASMId": "",
+			"ParentFileId": "",
+			"OutputFile": "\"C:\\Users\\MrRobot\\Desktop\\Proyectos MASM\\VMasm\\MsgBox\\Release\\Assembly1.obj\""
+		},
+		{
+			"Id": "0B1BAB91-24B9-46EE-B5E0-809FD57A3696",
+			"Name": "Resource.rc",
+			"Created": "08/04/2019 22:22:15",
+			"Type": "pftRC",
+			"Path": "C:\\Users\\MrRobot\\Desktop\\Proyectos MASM\\VMasm\\MsgBox\\",
+			"IsOpen": false,
+			"AssembleFile": true,
+			"ChildFileRCId": "",
+			"ChildFileASMId": "",
+			"ParentFileId": "",
+			"OutputFile": "\"C:\\Users\\MrRobot\\Desktop\\Proyectos MASM\\VMasm\\MsgBox\\Release\\Resource.res\""
+		}
+	]
+}
